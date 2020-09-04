@@ -197,6 +197,24 @@ footer nav a {
 
 /* new about page */
 
+/*about page*/ 
+.about-top-content {
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    padding: 1.5% 0;
+}
+
+header nav a {
+    text-align:center;
+    color: black;
+    padding: 1.5% 0;
+    font-weight: 700;
+    width:10%;
+    font-size:0.85rem;
+    text-decoration: none;
+}
+
+/*flex section*/
 
 .flextime {
     margin-bottom: 20px;
@@ -218,11 +236,6 @@ footer nav a {
         margin-bottom: 20px;
         border-bottom: 1px dashed black;
     
-}
-.about-top-content {
-    margin-bottom: 20px;
-    border-bottom: 1px dashed black;
-    padding: 1.5% 0;
 }
 
 .flextime h2 {
@@ -246,13 +259,3 @@ footer nav a {
     text-decoration: none;
 }
 
-header nav a {
-    text-align:center;
-    color: black;
-    padding: 1.5% 0;
-    font-weight: 700;
-    width:10%;
-    font-size:0.85rem;
-    text-decoration: none;
-}
-}
