@@ -194,3 +194,30 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/* new about page */
+
+
+.flextime {
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    height:80vh;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    
+}
+.flextime div {
+        width:32%;
+        margin: 2%;
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:center;
+    
+}
+.about-top-content {
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
